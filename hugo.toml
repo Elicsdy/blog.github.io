@@ -1,6 +1,6 @@
 baseURL = "https://blog.github.io"
 languageCode = "zh-cn"
-title = "主页测试"
+title = "test"
 theme = "ananke"
 defaultContentLanguage = "zh-cn"
 hasCJKLanguage = true
