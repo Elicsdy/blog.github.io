@@ -1,6 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>主页测试</title><link>https:///blog.github.io/</link><description>Recent content on 主页测试</description><generator>Hugo</generator><language>zh-cn</language><atom:link href="https:///blog.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https:///blog.github.io/post/hello/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https:///blog.github.io/post/hello/</guid><description>&lt;h2 id="这是一个文章">这是一个文章&lt;/h2>
-&lt;ol>
-&lt;li>嗯嗯&lt;/li>
-&lt;li>是的没错&lt;/li>
-&lt;li>对对对&lt;/li>
-&lt;/ol></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>主页测试</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 主页测试</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/post/hello/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/hello/</guid>
+      <description>&lt;h2 id=&#34;这是一个文章&#34;&gt;这是一个文章&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;嗯嗯&lt;/li&gt;&#xA;&lt;li&gt;是的没错&lt;/li&gt;&#xA;&lt;li&gt;对对对&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
