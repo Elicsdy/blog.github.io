@@ -2,17 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/blog.github.io/</link>
     <description>Recent content on test</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Jun 2025 13:33:21 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/post/hello/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/hello/</guid>
-      <description>&lt;h2 id=&#34;这是一个文章&#34;&gt;这是一个文章&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;嗯嗯&lt;/li&gt;&#xA;&lt;li&gt;是的没错&lt;/li&gt;&#xA;&lt;li&gt;对对对&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <title>Hello  1111</title>
+      <link>http://localhost:1313/blog.github.io/post/hello/</link>
+      <pubDate>Thu, 19 Jun 2025 13:33:21 +0800</pubDate>
+      <guid>http://localhost:1313/blog.github.io/post/hello/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
