@@ -1,0 +1,12 @@
+image:
+  name: hugomods/hugo:exts
+  entrypoint: [""]
+
+pages:
+  script:
+    - hugo
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
