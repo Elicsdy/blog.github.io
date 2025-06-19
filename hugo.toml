@@ -5,3 +5,4 @@ theme = "ananke"
 defaultContentLanguage = "zh-cn"
 hasCJKLanguage = true
 enableRobotsTXT = true
+publishDir = "docs"
